@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '8241'
     url: http://www.gutenberg.org/2009/agents/8241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40978#Watson-Refutedof-Letters-to-the-Bishop-Of-Llandaff
 gutenberg_issued: '2012-10-08'
 gutenberg_type: Text
 identifiers:
